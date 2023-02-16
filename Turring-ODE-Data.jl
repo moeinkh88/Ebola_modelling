@@ -19,7 +19,7 @@ data=(Matrix(Float64.(Data)))
 x0=[18000,0,15,0,0,0,0,0]# initial conditons S0,E0,I0,R0,L0,H0,B0,C0
 N=sum(x0)
 
-α1=35.37e-3 # Density independent part of the birth rate for individuals.
+α1=3.537e-2 # Density independent part of the birth rate for individuals.
 α2=.1*α1 # Density dependent part of the birth rate for individuals.
 σ=1/11.4 # Per capita rate at which exposed individuals become infectious.
 γ1=0.1 # Per capita rate of progression of individuals from the infectious class to the asymptomatic class.

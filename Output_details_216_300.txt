@@ -1,0 +1,2560 @@
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.840609e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 9.09e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.40e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.04e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   13253  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1094
+    ∇f(x) calls:   1094
+
+8-element Vector{Float64}:
+ 0.606465584318001
+ 0.8825694819663482
+ 0.9999999999770404
+ 0.9999999999976162
+ 0.9999999999225528
+ 0.9999999999611829
+ 0.9999999999991227
+ 0.999999999996143
+1×2 Matrix{Float64}:
+ 237.945  10.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.854488e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 9.54e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.57e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.80e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19183  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1601
+    ∇f(x) calls:   1601
+
+8-element Vector{Float64}:
+ 0.6021785849484117
+ 0.8754806242694326
+ 0.9999999999753519
+ 0.9999999999976955
+ 0.9999999999171385
+ 0.9999999999594281
+ 0.9999999999991703
+ 0.9999999999961284
+1×2 Matrix{Float64}:
+ 236.396  11.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.866275e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.10e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.11e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.11e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   17781  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1221
+    ∇f(x) calls:   1221
+
+8-element Vector{Float64}:
+ 0.5980860078985026
+ 0.8679070484364364
+ 0.9999999999733706
+ 0.9999999999977706
+ 0.9999999999110881
+ 0.9999999999574904
+ 0.9999999999992186
+ 0.9999999999961222
+1×2 Matrix{Float64}:
+ 234.787  12.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.875604e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.11e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.16e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.32e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   15319  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1143
+    ∇f(x) calls:   1143
+
+8-element Vector{Float64}:
+ 0.5943472063271484
+ 0.8597941724605657
+ 0.9999999999710326
+ 0.9999999999978421
+ 0.9999999999043339
+ 0.9999999999553695
+ 0.9999999999992673
+ 0.999999999996126
+1×2 Matrix{Float64}:
+ 233.116  13.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.882040e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.21e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.53e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.33e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   14142  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1075
+    ∇f(x) calls:   1075
+
+8-element Vector{Float64}:
+ 0.5911748695010363
+ 0.8510895163213603
+ 0.999999999968282
+ 0.9999999999979104
+ 0.9999999998969051
+ 0.9999999999530936
+ 0.9999999999993159
+ 0.9999999999961433
+1×2 Matrix{Float64}:
+ 231.377  14.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.885074e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.30e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.88e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.02e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11881  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    980
+    ∇f(x) calls:   980
+
+8-element Vector{Float64}:
+ 0.5888229257723382
+ 0.8417063124443159
+ 0.9999999999650415
+ 0.9999999999979762
+ 0.9999999998888504
+ 0.9999999999506884
+ 0.9999999999993643
+ 0.999999999996177
+1×2 Matrix{Float64}:
+ 229.564  15.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.884459e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.46e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.49e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.67e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   16288  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1374
+    ∇f(x) calls:   1374
+
+8-element Vector{Float64}:
+ 0.5876254059593806
+ 0.8315670356016023
+ 0.9999999999612915
+ 0.9999999999980399
+ 0.9999999998804211
+ 0.9999999999482427
+ 0.9999999999994122
+ 0.9999999999962312
+1×2 Matrix{Float64}:
+ 227.671  16.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.879973e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.60e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.02e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.28e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   23417  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1983
+    ∇f(x) calls:   1983
+
+8-element Vector{Float64}:
+ 0.5879728628997974
+ 0.8205399972585583
+ 0.9999999999569961
+ 0.9999999999981024
+ 0.9999999998719598
+ 0.999999999945855
+ 0.9999999999994594
+ 0.9999999999963086
+1×2 Matrix{Float64}:
+ 225.691  17.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.870925e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.66e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.29e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.15e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19403  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1580
+    ∇f(x) calls:   1580
+
+8-element Vector{Float64}:
+ 0.5903629638336916
+ 0.8085042040779075
+ 0.9999999999523339
+ 0.999999999998164
+ 0.999999999864224
+ 0.9999999999437417
+ 0.9999999999995055
+ 0.9999999999964134
+1×2 Matrix{Float64}:
+ 223.614  18.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.856506e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.71e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.47e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.59e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11696  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    964
+    ∇f(x) calls:   964
+
+8-element Vector{Float64}:
+ 0.5953638352454063
+ 0.7952959840796008
+ 0.9999999999477127
+ 0.999999999998225
+ 0.9999999998582642
+ 0.9999999999421686
+ 0.9999999999995501
+ 0.9999999999965478
+1×2 Matrix{Float64}:
+ 221.433  19.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.823701e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.91e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.56e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.50e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19330  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1374
+    ∇f(x) calls:   1374
+
+8-element Vector{Float64}:
+ 0.6402623447161022
+ 0.9313229450215272
+ 0.9999999999843819
+ 0.9999999999964895
+ 0.9999999999494409
+ 0.9999999999699002
+ 0.9999999999986917
+ 0.999999999996246
+1×2 Matrix{Float64}:
+ 249.82  1.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.835688e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.67e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.33e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.00e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   13696  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1201
+    ∇f(x) calls:   1201
+
+8-element Vector{Float64}:
+ 0.6035985067535522
+ 0.780697586762571
+ 0.9999999999439763
+ 0.9999999999982866
+ 0.9999999998554477
+ 0.9999999999414952
+ 0.9999999999995933
+ 0.9999999999967145
+1×2 Matrix{Float64}:
+ 219.138  20.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.807256e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.68e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.35e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.54e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   17732  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1196
+    ∇f(x) calls:   1196
+
+8-element Vector{Float64}:
+ 0.6157098155645584
+ 0.7644500301873896
+ 0.9999999999423453
+ 0.9999999999983485
+ 0.9999999998570476
+ 0.9999999999420934
+ 0.9999999999996344
+ 0.9999999999969137
+1×2 Matrix{Float64}:
+ 216.718  21.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.769781e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.55e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.89e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.95e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   17688  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1554
+    ∇f(x) calls:   1554
+
+8-element Vector{Float64}:
+ 0.6323010580589417
+ 0.7462078225193007
+ 0.9999999999440382
+ 0.9999999999984115
+ 0.9999999998639227
+ 0.9999999999442497
+ 0.9999999999996734
+ 0.9999999999971434
+1×2 Matrix{Float64}:
+ 214.163  22.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.722568e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.42e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.39e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 5.39e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   26249  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1854
+    ∇f(x) calls:   1854
+
+8-element Vector{Float64}:
+ 0.6538821563797645
+ 0.7255263083794314
+ 0.9999999999493037
+ 0.9999999999984756
+ 0.9999999998756517
+ 0.9999999999480134
+ 0.9999999999997099
+ 0.9999999999973992
+1×2 Matrix{Float64}:
+ 211.464  23.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.665029e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.25e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.74e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.10e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   24869  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    2178
+    ∇f(x) calls:   2178
+
+8-element Vector{Float64}:
+ 0.6808789705689209
+ 0.7018157645010215
+ 0.9999999999570615
+ 0.9999999999985406
+ 0.999999999890816
+ 0.9999999999531314
+ 0.9999999999997433
+ 0.9999999999976734
+1×2 Matrix{Float64}:
+ 208.615  24.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.595034e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.08e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.09e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.72e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11420  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    941
+    ∇f(x) calls:   941
+
+8-element Vector{Float64}:
+ 0.7137974598195185
+ 0.6742257500972159
+ 0.9999999999655464
+ 0.9999999999986059
+ 0.9999999999073894
+ 0.9999999999591112
+ 0.9999999999997738
+ 0.9999999999979576
+1×2 Matrix{Float64}:
+ 205.616  25.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.510512e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.76e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.32e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.16e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   15319  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1197
+    ∇f(x) calls:   1197
+
+8-element Vector{Float64}:
+ 0.7535503430118073
+ 0.6415704108987458
+ 0.9999999999732685
+ 0.9999999999986705
+ 0.99999999992346
+ 0.999999999965287
+ 0.9999999999998006
+ 0.9999999999982397
+1×2 Matrix{Float64}:
+ 202.482  26.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.410529e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 7.29e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.75e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.00e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   31711  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    2230
+    ∇f(x) calls:   2230
+
+8-element Vector{Float64}:
+ 0.8028623129327721
+ 0.6017912527871845
+ 0.9999999999791819
+ 0.9999999999987135
+ 0.9999999999366562
+ 0.9999999999706332
+ 0.9999999999998205
+ 0.9999999999984852
+1×2 Matrix{Float64}:
+ 199.255  27.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.296066e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.11e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.30e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.06e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   13630  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1135
+    ∇f(x) calls:   1135
+
+8-element Vector{Float64}:
+ 0.8726867985901843
+ 0.5506736194961795
+ 0.9999999999833551
+ 0.9999999999987362
+ 0.9999999999467593
+ 0.9999999999749066
+ 0.9999999999998337
+ 0.9999999999986949
+1×2 Matrix{Float64}:
+ 196.026  28.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.174402e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 7.16e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.68e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.18e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19353  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1689
+    ∇f(x) calls:   1689
+
+8-element Vector{Float64}:
+ 0.9404066985723495
+ 0.5000000000062601
+ 0.9999999999852822
+ 0.9999999999986124
+ 0.999999999951574
+ 0.9999999999767095
+ 0.9999999999998096
+ 0.9999999999987735
+1×2 Matrix{Float64}:
+ 192.978  29.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.806569e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.63e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.46e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 5.00e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   20774  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1624
+    ∇f(x) calls:   1624
+
+8-element Vector{Float64}:
+ 0.6374417003792627
+ 0.9269034525318743
+ 0.9999999999839949
+ 0.999999999996669
+ 0.9999999999477938
+ 0.9999999999694268
+ 0.9999999999987416
+ 0.9999999999962506
+1×2 Matrix{Float64}:
+ 248.654  2.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.110443e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 5.76e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.21e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.25e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   10422  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    807
+    ∇f(x) calls:   807
+
+8-element Vector{Float64}:
+ 0.735690504354006
+ 0.5000000000025042
+ 0.9999999999874326
+ 0.9999999999983326
+ 0.9999999999562823
+ 0.9999999999784022
+ 0.9999999999996543
+ 0.9999999999987658
+1×2 Matrix{Float64}:
+ 191.211  30.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.103493e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.71e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.63e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.58e-11 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7002  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    551
+    ∇f(x) calls:   551
+
+8-element Vector{Float64}:
+ 0.5000000000458098
+ 0.5000000000015564
+ 0.9999999999882426
+ 0.9999999999977626
+ 0.9999999999574378
+ 0.9999999999785394
+ 0.9999999999958892
+ 0.9999999999986336
+1×2 Matrix{Float64}:
+ 190.442  31.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.143253e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.06e-10 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.15e-11 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.27e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11936  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    946
+    ∇f(x) calls:   946
+
+8-element Vector{Float64}:
+ 0.5000000000000454
+ 0.5000000000000018
+ 0.9999999999999889
+ 0.9999999999999978
+ 0.9999999999999591
+ 0.9999999999999796
+ 0.9945738351425003
+ 0.9999999999999987
+1×2 Matrix{Float64}:
+ 190.335  32.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.180577e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 7.13e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.80e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.56e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8099  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    675
+    ∇f(x) calls:   675
+
+8-element Vector{Float64}:
+ 0.5000000000548237
+ 0.5000000000022672
+ 0.9999999999894046
+ 0.9999999999979298
+ 0.9999999999599942
+ 0.9999999999802617
+ 0.9889879428488644
+ 0.9999999999987481
+1×2 Matrix{Float64}:
+ 190.16  33.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.237640e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.43e-11 ≰ 0.0e+00
+    |x - x'|/|x'|          = 9.57e-12 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.54e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   16242  (vs limit Inf)
+    Iterations:    5
+    f(x) calls:    1513
+    ∇f(x) calls:   1513
+
+8-element Vector{Float64}:
+ 0.5000000000000026
+ 0.5000000000000001
+ 0.9999999999999999
+ 0.9999999999999999
+ 0.9999999999999998
+ 0.9999999999999997
+ 0.9781774456048404
+ 0.9999999999999999
+1×2 Matrix{Float64}:
+ 189.574  35.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.258265e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.70e-10 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.68e-11 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.53e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   16865  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    1580
+    ∇f(x) calls:   1580
+
+8-element Vector{Float64}:
+ 0.5000000000001433
+ 0.5000000000000079
+ 0.9999999999999903
+ 0.9999999999999982
+ 0.9999999999999624
+ 0.9999999999999825
+ 0.9729496962412435
+ 0.9999999999999988
+1×2 Matrix{Float64}:
+ 189.152  36.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.294615e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.43e-11 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.35e-12 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.04e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   20012  (vs limit Inf)
+    Iterations:    5
+    f(x) calls:    1434
+    ∇f(x) calls:   1434
+
+8-element Vector{Float64}:
+ 0.9999999999999999
+ 0.5000000000000001
+ 0.9999999999999997
+ 0.9999999999999999
+ 0.9999999999999979
+ 0.9999999999999991
+ 0.96438343921807
+ 0.9999999999999999
+1×2 Matrix{Float64}:
+ 188.407  37.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.304743e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.07e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.01e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.39e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   15917  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1423
+    ∇f(x) calls:   1423
+
+8-element Vector{Float64}:
+ 0.9999999999068295
+ 0.5000000000025403
+ 0.9999999999870508
+ 0.9999999999976081
+ 0.9999999999504734
+ 0.9999999999765575
+ 0.9596206499725208
+ 0.9999999999986203
+1×2 Matrix{Float64}:
+ 187.77  38.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.427263e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.06e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.35e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.66e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8795  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    714
+    ∇f(x) calls:   714
+
+8-element Vector{Float64}:
+ 0.9999999999786124
+ 0.5833141540684729
+ 0.9999999999842676
+ 0.5589585248620392
+ 0.9999999999570817
+ 0.9999999999721976
+ 0.9999999999984012
+ 0.9999999999984965
+1×2 Matrix{Float64}:
+ 188.496  39.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.795121e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.65e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.47e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.64e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   20328  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1566
+    ∇f(x) calls:   1566
+
+8-element Vector{Float64}:
+ 0.6343401985078623
+ 0.9222948773753281
+ 0.9999999999835406
+ 0.9999999999968313
+ 0.9999999999459224
+ 0.9999999999688647
+ 0.999999999998791
+ 0.9999999999962506
+1×2 Matrix{Float64}:
+ 247.455  3.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.413733e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.99e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 7.76e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.70e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7928  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    742
+    ∇f(x) calls:   742
+
+8-element Vector{Float64}:
+ 0.9999999999776469
+ 0.5922511168697077
+ 0.9999999999833155
+ 0.5000000001704948
+ 0.9999999999554136
+ 0.9999999999704076
+ 0.9999999999977071
+ 0.9999999999983774
+1×2 Matrix{Float64}:
+ 187.545  40.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.411568e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 3.45e-11 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.34e-11 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.01e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   22490  (vs limit Inf)
+    Iterations:    5
+    f(x) calls:    1474
+    ∇f(x) calls:   1474
+
+8-element Vector{Float64}:
+ 0.9999999999999999
+ 0.6087855772211467
+ 0.9999999999999999
+ 0.5000000000000001
+ 0.9999999999999999
+ 0.9999999999999999
+ 0.995271998425499
+ 0.9999999999999999
+1×2 Matrix{Float64}:
+ 186.703  41.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.411725e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.69e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.60e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.43e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7859  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    750
+    ∇f(x) calls:   750
+
+8-element Vector{Float64}:
+ 0.9999999999742428
+ 0.6188338805075071
+ 0.9999999999823581
+ 0.5000000000127944
+ 0.9999999999515138
+ 0.9999999999679845
+ 0.9897374567196312
+ 0.9999999999981366
+1×2 Matrix{Float64}:
+ 185.878  42.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.414750e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.77e-09 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.88e-10 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.70e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   23432  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    2266
+    ∇f(x) calls:   2266
+
+8-element Vector{Float64}:
+ 0.999999999999972
+ 0.6271264843895584
+ 0.9999999999999815
+ 0.500000000000013
+ 0.9999999999999486
+ 0.9999999999999662
+ 0.9841947195859339
+ 0.999999999999998
+1×2 Matrix{Float64}:
+ 185.028  43.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.413359e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 7.57e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.95e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.76e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6644  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    632
+    ∇f(x) calls:   632
+
+8-element Vector{Float64}:
+ 0.999999999969226
+ 0.6337684015468497
+ 0.9999999999803709
+ 0.500000000013445
+ 0.9999999999452919
+ 0.9999999999641858
+ 0.9786372349159322
+ 0.9999999999979478
+1×2 Matrix{Float64}:
+ 184.164  44.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.404620e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.65e-11 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.37e-11 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.61e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8508  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    803
+    ∇f(x) calls:   803
+
+8-element Vector{Float64}:
+ 0.999999999999966
+ 0.6387768889928758
+ 0.9999999999999793
+ 0.5000000000000143
+ 0.9999999999999415
+ 0.9999999999999628
+ 0.9730532752736063
+ 0.9999999999999978
+1×2 Matrix{Float64}:
+ 183.29  45.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.394218e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.93e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.48e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.68e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   5767  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    549
+    ∇f(x) calls:   549
+
+8-element Vector{Float64}:
+ 0.9999999999604505
+ 0.6420322859983087
+ 0.9999999999774403
+ 0.5000000000156487
+ 0.9999999999361514
+ 0.9999999999586812
+ 0.9674232876864314
+ 0.9999999999976661
+1×2 Matrix{Float64}:
+ 182.41  46.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.379995e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 9.93e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.87e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.91e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7214  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    639
+    ∇f(x) calls:   639
+
+8-element Vector{Float64}:
+ 0.9999999999534814
+ 0.6435325971504156
+ 0.9999999999754676
+ 0.5000000000177935
+ 0.9999999999299971
+ 0.9999999999550061
+ 0.9617370331561073
+ 0.9999999999974745
+1×2 Matrix{Float64}:
+ 181.528  47.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.361702e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.12e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.36e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.70e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   12988  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1285
+    ∇f(x) calls:   1285
+
+8-element Vector{Float64}:
+ 0.9999999999435952
+ 0.6432446524754492
+ 0.9999999999731214
+ 0.5000000000211788
+ 0.9999999999226404
+ 0.9999999999506566
+ 0.9559831677077743
+ 0.9999999999972436
+1×2 Matrix{Float64}:
+ 180.648  48.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.340991e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.30e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.06e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 8.68e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8158  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    724
+    ∇f(x) calls:   724
+
+8-element Vector{Float64}:
+ 0.9999999999285933
+ 0.641100312818955
+ 0.999999999970247
+ 0.5000000000268631
+ 0.9999999999136511
+ 0.9999999999453663
+ 0.9501484823644262
+ 0.9999999999969578
+1×2 Matrix{Float64}:
+ 179.771  49.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.318602e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.59e-10 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.23e-11 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.38e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8057  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    788
+    ∇f(x) calls:   788
+
+8-element Vector{Float64}:
+ 0.9999999999999035
+ 0.637057123770987
+ 0.9999999999999666
+ 0.5000000000000371
+ 0.9999999999999026
+ 0.9999999999999389
+ 0.9442232706718695
+ 0.9999999999999967
+1×2 Matrix{Float64}:
+ 178.9  50.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.292237e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.06e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 8.05e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.56e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8181  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    591
+    ∇f(x) calls:   591
+
+8-element Vector{Float64}:
+ 0.9999999998532558
+ 0.6311575081532703
+ 0.9999999999621111
+ 0.500000000060555
+ 0.9999999998883751
+ 0.9999999999305812
+ 0.9382072557396599
+ 0.9999999999961137
+1×2 Matrix{Float64}:
+ 178.045  51.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.153868e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 4.27e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.70e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.50e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7668  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    748
+    ∇f(x) calls:   748
+
+8-element Vector{Float64}:
+ 0.5000000000406098
+ 0.5000000000021866
+ 0.9999999998599238
+ 0.9999999999816527
+ 0.9999999996211801
+ 0.9999999998111675
+ 0.902982873642682
+ 0.9999999999871916
+1×2 Matrix{Float64}:
+ 176.452  52.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.129713e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 3.60e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.49e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.31e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   13427  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1152
+    ∇f(x) calls:   1152
+
+8-element Vector{Float64}:
+ 0.5000000000790998
+ 0.5000000000063761
+ 0.7433786808532868
+ 0.999999999988975
+ 0.9999999996685243
+ 0.9999999998510791
+ 0.8962967549151947
+ 0.9999999999921504
+1×2 Matrix{Float64}:
+ 175.892  53.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.110734e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 5.33e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.15e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.53e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   10833  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1069
+    ∇f(x) calls:   1069
+
+8-element Vector{Float64}:
+ 0.5000000000583713
+ 0.5000000000032605
+ 0.9999999998200182
+ 0.9228896722134418
+ 0.999999999535707
+ 0.999999999755238
+ 0.8966739999426907
+ 0.9999999999753104
+1×2 Matrix{Float64}:
+ 175.28  54.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.068972e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.69e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.88e-09 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 5.98e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11291  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    1152
+    ∇f(x) calls:   1152
+
+8-element Vector{Float64}:
+ 0.5000000000000957
+ 0.500000000000006
+ 0.9999999999998609
+ 0.866225885446443
+ 0.999999999999581
+ 0.9999999999997848
+ 0.893876156485657
+ 0.9999999999999787
+1×2 Matrix{Float64}:
+ 174.7  55.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.019539e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 5.23e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.14e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 5.52e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6089  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    614
+    ∇f(x) calls:   614
+
+8-element Vector{Float64}:
+ 0.5000000001479711
+ 0.5000000000115572
+ 0.9999999998562734
+ 0.814238674332025
+ 0.9999999995469233
+ 0.9999999997677738
+ 0.8909844618354632
+ 0.9999999999676552
+1×2 Matrix{Float64}:
+ 174.129  56.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     2.979832e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.51e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.23e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.98e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7097  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    603
+    ∇f(x) calls:   603
+
+8-element Vector{Float64}:
+ 0.500000000209031
+ 0.5000000000222924
+ 0.9999999998256724
+ 0.7628395264665917
+ 0.9999999994449782
+ 0.9999999997150937
+ 0.8879876380429449
+ 0.9999999992800808
+1×2 Matrix{Float64}:
+ 173.592  57.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     2.935085e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.97e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 8.09e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.99e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6069  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    611
+    ∇f(x) calls:   611
+
+8-element Vector{Float64}:
+ 0.5000000001691167
+ 0.5000000000089216
+ 0.9999999988060885
+ 0.9999999999193053
+ 0.9999999981452509
+ 0.9999999991796245
+ 0.8928813353252474
+ 0.8075426078835912
+1×2 Matrix{Float64}:
+ 172.968  58.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     2.892169e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.91e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 7.90e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 5.95e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6599  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    697
+    ∇f(x) calls:   697
+
+8-element Vector{Float64}:
+ 0.5000000003453928
+ 0.5000000000293388
+ 0.9999999991750091
+ 0.9414931446595309
+ 0.9999999980434109
+ 0.999999999166264
+ 0.8896664359794435
+ 0.8047145315037907
+1×2 Matrix{Float64}:
+ 172.498  59.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.787821e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 7.50e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.79e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.65e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19376  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1414
+    ∇f(x) calls:   1414
+
+8-element Vector{Float64}:
+ 0.6273324281668575
+ 0.9123963394100137
+ 0.9999999999823623
+ 0.9999999999971092
+ 0.999999999941291
+ 0.9999999999673921
+ 0.9999999999988869
+ 0.9999999999962342
+1×2 Matrix{Float64}:
+ 244.949  5.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     2.828243e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.95e-05 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.50e-05 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.36e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11191  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1293
+    ∇f(x) calls:   1293
+
+8-element Vector{Float64}:
+ 0.5000000004087405
+ 0.645804056712902
+ 0.5382824506604463
+ 0.9999999998924093
+ 0.5017068724682026
+ 0.5518070068422087
+ 0.8848082346829347
+ 0.7639303008342974
+1×2 Matrix{Float64}:
+ 171.989  60.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     2.777429e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.93e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.53e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.85e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   5629  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    644
+    ∇f(x) calls:   644
+
+8-element Vector{Float64}:
+ 0.5000000005175264
+ 0.668174921273533
+ 0.5655033171888552
+ 0.8737166539860526
+ 0.5000000028494724
+ 0.5632822771929945
+ 0.88600098275951
+ 0.735858387369124
+1×2 Matrix{Float64}:
+ 171.597  61.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     2.728718e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 3.06e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.63e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.29e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8741  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    857
+    ∇f(x) calls:   857
+
+8-element Vector{Float64}:
+ 0.5000000004428515
+ 0.6820021685008257
+ 0.5741244323263258
+ 0.8108963906252731
+ 0.5000000029993709
+ 0.5675639130606257
+ 0.8885181793642447
+ 0.6656775322218264
+1×2 Matrix{Float64}:
+ 171.282  62.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     2.699515e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.05e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.33e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.50e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   7065  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    860
+    ∇f(x) calls:   860
+
+8-element Vector{Float64}:
+ 0.5000000003289038
+ 0.6862969079632193
+ 0.5741357434378485
+ 0.772805356707286
+ 0.5000000059474281
+ 0.5667037737914529
+ 0.8927374719402043
+ 0.5352393255247686
+1×2 Matrix{Float64}:
+ 171.054  63.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     2.713761e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 6.79e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.81e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.74e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   15887  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1532
+    ∇f(x) calls:   1532
+
+8-element Vector{Float64}:
+ 0.5000000002703998
+ 0.6825570921586078
+ 0.5671328517073316
+ 0.7242214882971331
+ 0.5000000067353646
+ 0.5599340668048193
+ 0.889598773128127
+ 0.5000000000557965
+1×2 Matrix{Float64}:
+ 170.923  64.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     2.780223e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 4.34e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.49e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.14e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   8238  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1005
+    ∇f(x) calls:   1005
+
+8-element Vector{Float64}:
+ 0.5000000002428997
+ 0.6734861099275703
+ 0.5563512458535832
+ 0.6759832954065609
+ 0.5000000043012366
+ 0.5502587715278799
+ 0.8839529214763222
+ 0.5000000000260537
+1×2 Matrix{Float64}:
+ 170.919  65.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     2.889813e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.76e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.61e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 5.49e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   5915  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    726
+    ∇f(x) calls:   726
+
+8-element Vector{Float64}:
+ 0.5000000002307864
+ 0.6607614103896776
+ 0.5434159216897341
+ 0.6249337866452208
+ 0.5000000027207707
+ 0.5388105168444369
+ 0.8778442591605748
+ 0.5000000000179106
+1×2 Matrix{Float64}:
+ 171.048  66.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.267397e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.30e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.41e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.60e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   9176  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    887
+    ∇f(x) calls:   887
+
+8-element Vector{Float64}:
+ 0.5000000002423128
+ 0.6231986405820057
+ 0.5077453072774077
+ 0.5000000003028543
+ 0.5000000013575225
+ 0.5075965863024727
+ 0.8641867203147768
+ 0.5000000000127538
+1×2 Matrix{Float64}:
+ 171.697  68.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.542370e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.78e-10 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.50e-10 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 4.68e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   15363  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    1738
+    ∇f(x) calls:   1738
+
+8-element Vector{Float64}:
+ 0.500000000000291
+ 0.5596134718533334
+ 0.500000000000209
+ 0.5000000000000692
+ 0.5000000000004884
+ 0.5000000000004474
+ 0.8558896352045925
+ 0.5000000000000119
+1×2 Matrix{Float64}:
+ 172.211  69.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.791351e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.64e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.22e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 8.53e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19348  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1488
+    ∇f(x) calls:   1488
+
+8-element Vector{Float64}:
+ 0.6234673607146236
+ 0.9070644011009608
+ 0.9999999999816165
+ 0.9999999999972298
+ 0.9999999999384771
+ 0.9999999999664739
+ 0.9999999999989344
+ 0.9999999999962205
+1×2 Matrix{Float64}:
+ 243.638  6.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.874019e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 4.06e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.58e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.14e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6080  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    778
+    ∇f(x) calls:   778
+
+8-element Vector{Float64}:
+ 0.5000000002969508
+ 0.5000000000604465
+ 0.5000000000691098
+ 0.5000000000368681
+ 0.5000000002117313
+ 0.5000000001481938
+ 0.8483062415544793
+ 0.5000000000110795
+1×2 Matrix{Float64}:
+ 172.849  70.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     4.277392e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.23e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.42e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.15e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   19611  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1930
+    ∇f(x) calls:   1930
+
+8-element Vector{Float64}:
+ 0.5000000001978346
+ 0.500000000013198
+ 0.5000000000247067
+ 0.5000000000196736
+ 0.5000000000813881
+ 0.5000000000541038
+ 0.8437485384059
+ 0.5000000000098065
+1×2 Matrix{Float64}:
+ 173.607  71.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     4.756823e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.74e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.11e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.80e-10 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   11568  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1489
+    ∇f(x) calls:   1489
+
+8-element Vector{Float64}:
+ 0.5000000001593089
+ 0.500000000008221
+ 0.5000000000166366
+ 0.5000000000143682
+ 0.5000000000555883
+ 0.5000000000365492
+ 0.8392928873249376
+ 0.5000000000091139
+1×2 Matrix{Float64}:
+ 174.568  72.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     5.303737e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.52e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 9.71e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 8.83e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   9914  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1133
+    ∇f(x) calls:   1133
+
+8-element Vector{Float64}:
+ 0.5000000001405551
+ 0.5000000000064136
+ 0.500000000013453
+ 0.5000000000119256
+ 0.5000000000452263
+ 0.5000000000295817
+ 0.8349459367760753
+ 0.5000000000087783
+1×2 Matrix{Float64}:
+ 175.722  73.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     5.922094e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.49e-10 ≰ 0.0e+00
+    |x - x'|/|x'|          = 9.53e-11 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 8.83e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6932  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    895
+    ∇f(x) calls:   895
+
+8-element Vector{Float64}:
+ 0.5000000000001306
+ 0.5000000000000054
+ 0.5000000000000119
+ 0.5000000000000105
+ 0.5000000000000397
+ 0.5000000000000263
+ 0.8307218057022722
+ 0.5000000000000085
+1×2 Matrix{Float64}:
+ 177.043  74.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     6.600116e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.86e-10 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.19e-10 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.17e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   12764  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    1554
+    ∇f(x) calls:   1554
+
+8-element Vector{Float64}:
+ 0.500000000000124
+ 0.5000000000000051
+ 0.500000000000011
+ 0.5000000000000098
+ 0.5000000000000372
+ 0.5000000000000242
+ 0.8266248036616649
+ 0.5000000000000088
+1×2 Matrix{Float64}:
+ 178.513  75.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     7.327102e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.31e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 8.44e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.82e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   5828  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    765
+    ∇f(x) calls:   765
+
+8-element Vector{Float64}:
+ 0.5000000001233058
+ 0.50000000000476
+ 0.5000000000105373
+ 0.5000000000093147
+ 0.5000000000356932
+ 0.500000000023165
+ 0.8226578692089631
+ 0.5000000000088023
+1×2 Matrix{Float64}:
+ 180.113  76.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     8.966312e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.40e-06 ≰ 0.0e+00
+    |x - x'|/|x'|          = 7.89e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.04e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   9816  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1291
+    ∇f(x) calls:   1291
+
+8-element Vector{Float64}:
+ 0.500000000121185
+ 0.5000000000037342
+ 0.5000000000085179
+ 0.50000000000758
+ 0.5000000000315306
+ 0.9999999982753801
+ 0.8186755366411281
+ 0.5000000000090552
+1×2 Matrix{Float64}:
+ 183.783  78.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     9.816566e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.22e-09 ≰ 0.0e+00
+    |x - x'|/|x'|          = 6.88e-10 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 8.92e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   17617  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    2050
+    ∇f(x) calls:   2050
+
+8-element Vector{Float64}:
+ 0.5000000000001243
+ 0.5000000000000038
+ 0.500000000000009
+ 0.5000000000000075
+ 0.5000000000000323
+ 0.9999999999987709
+ 0.8152096728730314
+ 0.500000000000009
+1×2 Matrix{Float64}:
+ 185.689  79.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.799359e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 7.75e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.89e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 6.63e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   20214  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1598
+    ∇f(x) calls:   1598
+
+8-element Vector{Float64}:
+ 0.6193935816178545
+ 0.9014391637543524
+ 0.9999999999807393
+ 0.99999999999734
+ 0.9999999999352561
+ 0.9999999999654112
+ 0.9999999999989817
+ 0.9999999999962034
+1×2 Matrix{Float64}:
+ 242.285  7.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     1.099055e-01
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.16e-12 ≰ 0.0e+00
+    |x - x'|/|x'|          = 1.00e-12 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.41e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   10175  (vs limit Inf)
+    Iterations:    5
+    f(x) calls:    1349
+    ∇f(x) calls:   1349
+
+8-element Vector{Float64}:
+ 0.5000000000000042
+ 0.5000000000000001
+ 0.9999999999999858
+ 0.5000000000000001
+ 0.9999999999999639
+ 0.9999999999999928
+ 0.8249246204126452
+ 0.5000000000000001
+1×2 Matrix{Float64}:
+ 188.246  80.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     1.192189e-01
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.52e-09 ≰ 0.0e+00
+    |x - x'|/|x'|          = 7.05e-10 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 2.17e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   9302  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    1223
+    ∇f(x) calls:   1223
+
+8-element Vector{Float64}:
+ 0.5000000000002124
+ 0.5000000000000021
+ 0.9999999999996734
+ 0.5000000000000047
+ 0.9999999999986836
+ 0.9999999999993958
+ 0.8220152300012302
+ 0.5000000000000098
+1×2 Matrix{Float64}:
+ 190.271  81.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     1.287871e-01
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 4.97e-16 ≰ 0.0e+00
+    |x - x'|/|x'|          = 2.30e-16 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.37e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   21141  (vs limit Inf)
+    Iterations:    7
+    f(x) calls:    2518
+    ∇f(x) calls:   2518
+
+8-element Vector{Float64}:
+ 0.5000000000000011
+ 0.5000000000000001
+ 0.9999999999999993
+ 0.5000000000000001
+ 0.9999999999999959
+ 0.9999999999999999
+ 0.8192793622510385
+ 0.5000000000000001
+1×2 Matrix{Float64}:
+ 192.344  82.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     1.489068e-01
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.00e-09 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.64e-10 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.05e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   5795  (vs limit Inf)
+    Iterations:    4
+    f(x) calls:    802
+    ∇f(x) calls:   802
+
+8-element Vector{Float64}:
+ 0.5000000000002791
+ 0.5000000000000024
+ 0.9999999999997743
+ 0.5000000000000049
+ 0.999999999999171
+ 0.9999999999995755
+ 0.8144084186987463
+ 0.500000000000011
+1×2 Matrix{Float64}:
+ 196.609  84.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     1.597924e-01
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.63e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.00e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 7.65e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   6291  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    815
+    ∇f(x) calls:   815
+
+8-element Vector{Float64}:
+ 0.5000000003003554
+ 0.5000000000024618
+ 0.9999999997874882
+ 0.5000000000049546
+ 0.9999999992320318
+ 0.9999999996044926
+ 0.8123695551817655
+ 0.5000000000114828
+1×2 Matrix{Float64}:
+ 198.803  85.0
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     3.811511e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.61e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.21e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.80e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   15433  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1273
+    ∇f(x) calls:   1273
+
+8-element Vector{Float64}:
+ 0.6151653029851512
+ 0.8955135524052743
+ 0.9999999999797011
+ 0.9999999999974396
+ 0.9999999999315585
+ 0.9999999999641797
+ 0.9999999999990286
+ 0.9999999999961832
+1×2 Matrix{Float64}:
+ 240.887  8.0
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     3.825941e-02
+
+ * Found with
+    Algorithm:     Fminbox with L-BFGS
+
+ * Convergence measures
+    |x - x'|               = 8.54e-08 ≰ 0.0e+00
+    |x - x'|/|x'|          = 3.19e-08 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 9.86e-09 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   13034  (vs limit Inf)
+    Iterations:    3
+    f(x) calls:    1078
+    ∇f(x) calls:   1078
+
+8-element Vector{Float64}:
+ 0.6108270251902487
+ 0.8892332365186794
+ 0.9999999999784777
+ 0.9999999999975313
+ 0.9999999999273332
+ 0.9999999999627728
+ 0.9999999999990755
+ 0.999999999996162
+1×2 Matrix{Float64}:
+ 239.441  9.0
