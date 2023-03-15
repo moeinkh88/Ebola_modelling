@@ -31,11 +31,5 @@ Pkg.add("PackageName")
 
 3. Run Allplots_Models280.jl to generate the figures.
 
-## Files
-
-- `main.jl`: The main Julia script that generates the figures.
-- `data/`: The directory containing the input CSV file.
-- `figures/`: The directory where the generated figures are stored.
-
 ## License
 This code is released under the MIT License.
