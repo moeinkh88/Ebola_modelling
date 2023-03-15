@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7473300.svg)](https://doi.org/10.5281/zenodo.7646063)
 # Ebola epidemic model with dynamic population and memory
 
 ## Description
